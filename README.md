@@ -1,2 +1,2 @@
 - 👋 Hi, I’m mirnhh
-- 👀 I’m interested in backend development
+- 👀 I’m interested in web development
