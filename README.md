@@ -1,2 +1,1 @@
-- 👋 Hi, I’m mirnhh
-- 👀 I’m interested in web development
+Junior software testing engineer
